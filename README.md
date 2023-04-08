@@ -1,1 +1,1 @@
-# API_URL = https://meetware.herokuapp.com
+# API_URL = https://meetware-backend.onrender.com
